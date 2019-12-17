@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c8eabc3-c273-4144-821a-576e93e10b63" name="Default Changelist" comment="" />
+    <list default="true" id="0c8eabc3-c273-4144-821a-576e93e10b63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ua/firstTest/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ua/firstTest/FirstTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +30,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/firstTest/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+            <state relative-caret-position="247">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1367#1368#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#1374#1375#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +85,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,10 +110,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Silenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Silenium" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,34 +199,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 42m 34s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 45m 36s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 47m 12s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 48m 48s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 49m 51s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 52m 02s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 52m 58s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest - 2019.12.12 at 19h 53m 48s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstTest_firstTest_(1) - 2019.12.14 at 18h 07m 26s.xml">
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.14 at 18h 08m 07s.xml">
       <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest_(1) - 2019.12.14 at 18h 08m 07s.xml">
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 17h 38m 13s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 17h 38m 45s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 14m 36s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 17m 37s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 19m 01s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 19m 46s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 20m 47s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 21m 33s.xml">
+      <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstTest_firstTest_(1) - 2019.12.17 at 18h 22m 34s.xml">
       <configuration name="FirstTest.firstTest (1)" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -212,7 +234,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -243,6 +265,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Silenium.iml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -250,15 +273,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Silenium.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#1374#1375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/firstTest/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        <state relative-caret-position="247">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
           </folding>
         </state>
       </provider>
